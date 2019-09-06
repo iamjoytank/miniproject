@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1046983028760",
+    "firebase_url": "https://life-d6e96.firebaseio.com",
+    "project_id": "life-d6e96",
+    "storage_bucket": "life-d6e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046983028760:android:327e5718f66e56c6",
+        "android_client_info": {
+          "package_name": "com.example.lifeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046983028760-bflo0d8uaacef79lnicjlkbur61u1agi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLUrB6TTiQTJUuCs5T2uum-0AqypaRt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
